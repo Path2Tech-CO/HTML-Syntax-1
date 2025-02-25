@@ -1,11 +1,7 @@
 #spanning {
-    background-color: cornflowerblue;
+    background-color: rgb(202, 199, 28);
     font-weight: bolder;
     font-style: italic;
     font-size: larger;
 }
 
-.div1 {
-    float: left;
-    margin: 0px 15px 15px 0px;
-}
